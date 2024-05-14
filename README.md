@@ -52,7 +52,7 @@ How to Use This Report
 
 To interact with the Power BI report:
 
-1. Download the Power BI Desktop File: If provided, download the .pbix file from this repository and open it with Power BI Desktop.
+1. Download the Power BI Desktop File:  download the .pbix file from this repository and open it with Power BI Desktop.
 
 2. Explore Interactive Dashboards: Utilize the interactive elements in the dashboard to filter data and explore different views.
 
